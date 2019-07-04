@@ -1,0 +1,7 @@
+Links to keep track of: 
+
+https://github.com/sparkfun/SparkFun_CAN-Bus_Arduino_Library
+https://learn.sparkfun.com/tutorials/installing-an-arduino-library
+https://www.educba.com/raspberry-pi-3-vs-arduino/
+https://www.instructables.com/id/CAN-Bus-Sniffing-and-Broadcasting-with-Arduino/
+csselectronics.com/screen/page/simple-intro-to-can-bus/language/en
